@@ -19,6 +19,7 @@ cd StudySquad
 
 ```
 
+
 - Create a virtual environment :
 ```bash
 # Let's install virtualenv first
@@ -65,7 +66,8 @@ python manage.py runserver
 <p align="center">
   Feed Home
 </p>
-<img src="static\images\home_feed.PNG">
+<!-- <img src="static\images\home_feed.PNG"> -->
+  <img alt="home_feed" src="https://user-images.githubusercontent.com/33984489/190852622-b5df9d44-c237-46cf-8078-49177ee77be6.PNG">
 
 </td> 
 <td width="50%">
@@ -73,7 +75,9 @@ python manage.py runserver
 <p align="center">
   Room Conversation Preview
 </p>
-<img src="static\images\room_conversation.PNG">
+<!-- <img src="static\images\room_conversation.PNG"> -->
+ <img alt="room_conversation" src="https://user-images.githubusercontent.com/33984489/190852708-8403bf38-aa1d-4260-a72e-7adbf98f02b5.PNG">
+
 </td>
 </table>
 
